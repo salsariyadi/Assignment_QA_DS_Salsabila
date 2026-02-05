@@ -1,3 +1,4 @@
+// SEGITIGA //
 let tinggi = 4;
 let bintang = "";
 
